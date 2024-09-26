@@ -130,7 +130,7 @@ const LoginPage = () => {
 
             <button
               type="submit"
-              className="w-full text-[12px] font-semibold bg-black text-white p-[4%] rounded-[25px] mt-[25%] [font-family:'Poppins',Helvetica]"
+              className="w-full text-[12px] font-semibold bg-black text-white p-[4%] rounded-[25px] mt-[15%] [font-family:'Poppins',Helvetica]"
             >
               Log In
             </button>
