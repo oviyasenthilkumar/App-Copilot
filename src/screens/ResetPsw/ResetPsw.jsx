@@ -36,7 +36,7 @@ export const ResetPasswordPage = () => {
 
             <button
               type="submit"
-              className="[font-family:Poppins,Helvetica] w-full text-[12px] text-semibold bg-black text-white  rounded-[25px] mt-[30%] p-[4%] mb-[12%]"
+              className="[font-family:Poppins,Helvetica] w-full text-[12px] text-semibold bg-black text-white  rounded-[25px] mt-[22%] p-[4%] mb-[12%]"
             >
               Send Link
             </button>
